@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/SaiAdityya/DSA/tree/master/0041-first-missing-positive) |
 | [0645-set-mismatch](https://github.com/SaiAdityya/DSA/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/SaiAdityya/DSA/tree/master/0041-first-missing-positive) |
 | [0645-set-mismatch](https://github.com/SaiAdityya/DSA/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
 |  |
