@@ -22,9 +22,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/SaiAdityya/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SaiAdityya/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SaiAdityya/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## String
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/SaiAdityya/DSA/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/SaiAdityya/DSA/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
