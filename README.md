@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SaiAdityya/DSA/tree/master/0014-longest-common-prefix) |
+| [1021-remove-outermost-parentheses](https://github.com/SaiAdityya/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/SaiAdityya/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SaiAdityya/DSA/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/SaiAdityya/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/SaiAdityya/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
