@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/SaiAdityya/DSA/tree/master/0041-first-missing-positive) |
+| [0242-valid-anagram](https://github.com/SaiAdityya/DSA/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/SaiAdityya/DSA/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/SaiAdityya/DSA/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/SaiAdityya/DSA/tree/master/0645-set-mismatch) |
 ## Math
 |  |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SaiAdityya/DSA/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/SaiAdityya/DSA/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/SaiAdityya/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/SaiAdityya/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
